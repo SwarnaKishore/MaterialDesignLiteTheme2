@@ -1,0 +1,35 @@
+html, body {
+  font-family: 'Roboto', 'Helvetica', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+ main > .mdl-layout__tab-panel {
+  padding: 8px;
+  padding-top: 48px;
+}
+.mdl-card {
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+.mdl-card .mdl-card__supporting-text {
+  margin: 40px;
+  flex-grow: 1;
+  padding: 0;
+  color: inherit;
+  width: calc(100% - 80px);
+}
+
+.block {
+  text-align: center;
+  background: #c0c0c0;
+ line-height: 400px;
+  height:400px;
+ 
+}
+ 
+
+.centered{
+  display: inline-block;
+  vertical-align: middle
+}
