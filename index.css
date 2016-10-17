@@ -22,7 +22,7 @@ html, body {
 
 .block {
   text-align: center;
-  background: #c0c0c0;
+  background: rgba(255, 7, 99, 0.17);
  line-height: 400px;
   height:400px;
  
